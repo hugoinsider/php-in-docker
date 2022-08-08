@@ -1,12 +1,11 @@
 # **PHP IN DOCKER**
 
-### In this repo, you will be able to develop with php using docker
+In this repo, you will be able to develop with php using docker
 
-## List of content
+### List of content
 
 - [**PHP IN DOCKER**](#php-in-docker)
-    - [In this repo, you will be able to develop with php using docker](#in-this-repo-you-will-be-able-to-develop-with-php-using-docker)
-  - [List of content](#list-of-content)
+    - [List of content](#list-of-content)
   - [Required](#required)
   - [Installing](#installing)
 
