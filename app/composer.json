@@ -1,0 +1,13 @@
+{
+    "name": "hugo/app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hugo Hoffmann",
+            "email": "hugoalvesdesolza@gmail.com"
+        }
+    ],
+    "require": {
+        "michelf/php-markdown": "^1.9"
+    }
+}
